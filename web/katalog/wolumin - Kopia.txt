@@ -1,0 +1,8 @@
+|1|1|COMA|Zaprzepaszczone siły wielkiej armii świętych znaków|2006-05-29|Zaprzepaszczone siły wielkiej armii świętych znaków – drugi album studyjny zespołu Coma, wydany 29 maja 2006 roku.|
+|1|2|COMA|Hipertrofia|2008-11-10|Hipertrofia – trzeci album studyjny zespołu Coma, wydany 10 listopada 2008 roku. Jest to album koncepcyjny, gdzie wszystkie utwory powiązane są jedną myślą przewodnią.|
+|1|3|The Beatles|Please Please Me|1963-03-22|Please Please Me – debiutancki album zespołu The Beatles, wydany 22 marca 1963 w Wielkiej Brytanii.|
+|1|4|The Beatles|With The Beatles|1963-11-22|With The Beatles – drugi brytyjski album zespołu The Beatles, nagrany cztery miesiące od pierwszego - Please Please Me.|
+|1|5|The Rolling Stones|Shine a Light|1967-05-12|Shine a Light – utwór zespołu The Rolling Stones, który znalazł się na albumie Exile on Main St.|
+|2|1|Kamil Bednarek|Oddycham|2015-05-29|Oddycham – drugi album studyjny polskiego zespołu muzycznego Bednarek. Wydawnictwo ukazało się 29 maja 2015 roku nakładem wytwórni muzycznej Lou & Rocked Boys w dystrybucji Rockers Publishing.|
+|2|2|EMINEM|Infinite|1996-11-12|Infinite – pierwszy album amerykańskiego rapera Eminema. Został wydany 12 listopada 1996 roku w postaci kasety magnetofonowej oraz płyty winylowej. W maju 2009 został udostępniony w Internecie całkowicie za darmo.|
+|2|3|Dawid|lolek|2015-11-11|opis ładny|

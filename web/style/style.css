@@ -1,0 +1,207 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015-10-29, 18:56:49
+    Author     : Dawid
+*/
+body {
+    padding: 0px;
+    margin: 0px;
+    
+    width: 100% ;
+}
+html{
+    padding: 0px;
+    margin: 0px;
+    
+    width: 100% ;
+}
+h1 {
+    color:white;
+    font-size: 24pt;
+    text-align: center;
+    font-family: arial;
+}
+a:link ,a:visited, a:active {
+    color:white;
+}
+p {
+    color:black; 
+    font-size: 12pt;
+    font-family: arial;
+
+}
+#wrapper {
+     clear: both;
+    
+}
+.header {
+    width: 100%;
+    min-height:100px; 
+    background: #333333;
+    top: 0;
+    
+}
+
+.foto {
+   float: left;
+   width: 50%;
+   min-height: 100px;
+   
+}
+.foto:nth-child(2){
+    text-align: center;
+}
+.foto > h1 > a {
+    text-decoration: none;
+}
+.logo{
+    clear: both;
+     left: 5%;
+    min-height: 40px;
+}
+.res {
+    display: none;
+    text-align: center;
+}
+.menu {
+    background: #255;
+    
+}
+.menu > ul {
+    list-style: none;
+    text-align: center;
+    min-height: 40px;
+    margin: 0;
+    padding: 10px;
+}
+
+.menu > ul > li {
+    min-width: 35px;
+    padding: 10px 15px 10px 10px;
+    text-align: center;
+    display: inline-block;
+}
+.menu > ul > li > a  {
+    text-decoration: none;
+}
+.sec{
+     list-style: none;
+    display: none;
+}
+.down{
+    display: block;
+}
+.menu > ul > li:last-child {
+    border: none;
+}
+
+@media all and (max-width:500px) {
+    .menu > ul > li {
+        display: none;
+        clear: both;
+        border-bottom: 2px solid red;
+        border-right: none;
+    }
+    .logo {
+        position: static;
+        padding: 0 0 0 10%;
+        float: left;
+        width: 40%;
+    }
+    .res {
+        position: static;
+        padding: 20px 0 0 0;
+        float: left;
+        width: 100%;
+        text-align: center;
+        display: block;
+    }
+    .menu > ul > img {
+        display: none;
+    }
+   .menu > ul > li a > img {
+        display: none;
+    }
+    .content {
+        clear: both;
+    }
+    #wrapper > div:nth-child(1) > div.res {
+      text-align: center;
+     
+    }
+    #wrapper > div:nth-child(2) > div.res {
+        display: none;
+        text-align: center;
+        width: 100%;
+   }
+    #wrapper > div:nth-child(2) > ul {
+       display: none;
+    } 
+}
+
+@media only screen and (max-device-width: 480px) {
+    .menu > ul > li {
+        display: none;
+        clear: both;
+        border-bottom: 2px solid red;
+        border-right: none;
+    }
+    .logo {
+        position: static;
+        padding: 20px 0 0 10%;
+        float: left;
+        width: 40%;
+    }
+    .res {
+        position: static;
+        float: left;
+        padding:20px 0 0 0;
+        width: 100%;
+        text-align: center;
+        display: block;
+    }
+    .content {
+        clear: both;
+    }
+    .menu > ul > img {
+        display: none;
+    }
+   .menu > ul > li a > img {
+        display: none;
+    }
+    .content {
+        clear: both;
+    }
+    #wrapper > div:nth-child(1) > div.res {
+      text-align: center;
+      
+    }
+    #wrapper > div:nth-child(2) > div.res {
+        display: none;
+    }
+    #wrapper > div:nth-child(2) > ul {
+        display: none;
+    }
+    
+}
+.content{
+    clear: both;
+    min-height: 100px;
+    padding: 5%;
+}
+.foot {
+    background: #009999;
+    bottom: 0;
+    position: fixed;
+    height: 40px;
+    width: 100%;
+    color:red; 
+    font-size: 12pt;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+}
